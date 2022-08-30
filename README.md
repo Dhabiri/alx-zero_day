@@ -1,2 +1,2 @@
 non empty readme
-a good programmer
+good programmer
